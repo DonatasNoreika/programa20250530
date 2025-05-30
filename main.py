@@ -1,5 +1,6 @@
 import sqlalchemy
 import django
+import pandas
 from modelis import Klase
 
 for x in range(5):
